@@ -9,6 +9,7 @@
     (else (cons (car myList) (my_delete atom (cdr myList)))))
   )
 
+;Function Calls
 (my_delete 3 '(1 3 2 3))
 (my_delete 'A '(A B C D A E A F))
 (my_delete 'A '(A B (C A) R T (A J K A L) Z))
