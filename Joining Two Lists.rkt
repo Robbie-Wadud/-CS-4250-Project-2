@@ -18,5 +18,3 @@
 (my_union '(A B C D) 654)
 (my_union '(A B C D) '())
 (my_union '(A B C D) '(X Y Z W))
-;(my_union '(A B C D) '(W X Y Z))
-;(my_union '(A B C D) '(B X Y Z))
